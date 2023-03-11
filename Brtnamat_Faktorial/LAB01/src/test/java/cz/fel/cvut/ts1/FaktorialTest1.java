@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class FaktorialCalculatorTest {
+class FaktorialTest1 {
 
     @Test
     void factorial() {
@@ -32,4 +32,3 @@ class FaktorialCalculatorTest {
         }
     }
 }
-
